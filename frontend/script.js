@@ -16,7 +16,7 @@
    CONFIG
 ========================================================= */
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://onrender.com";
 const STORAGE_KEY = "aventraStudyData";
 
 const PDF_DB_NAME = "AventraPDFDatabase";
